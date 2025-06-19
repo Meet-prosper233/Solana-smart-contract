@@ -17,10 +17,10 @@ This project showcases a simple Solana smart contract written in Rust that imple
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
+### 1. My Repository
 
 ```bash
-git clone https://github.com/your-username/Solana-Smart-Contract-Project.git
+ https://github.com/Meet-prosper233/Solana-Smart-Contract-Project.git
 cd Solana-Smart-Contract-Project
 ```
 
